@@ -1,4 +1,4 @@
-# Farhan Difa 👨‍💻
+# Muhammad Farhan Difa 👨‍💻
 
 ## 👨‍💻 About Me
 Saya seorang Web Developer dengan pengalaman 3 tahun. Tech Stack utama saya adalah Laravel dan Yii2, dan memiliki pengalaman menggunakan .NetCore Entity Framework. Project yang saya kerjakan selama 3 tahun berasal dari lingkup pemerintahan, baik daerah ataupun pusat. Saya senang dengan hal baru yang dapat membuat saya berkembang menjadi lebih baik, saya dapat bekerja secara tim ataupun individu.
@@ -59,4 +59,3 @@ Saya seorang Web Developer dengan pengalaman 3 tahun. Tech Stack utama saya adal
 ## 📫 Contact
 - 📧 muhamadfarhan136@gmail.com
 - 🔗 https://www.linkedin.com/in/m-farhan-difa-izzati-892228193/
-- 📝 [Download CV](https://farhandifa.github.io/cv.pdf)
