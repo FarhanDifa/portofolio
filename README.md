@@ -48,7 +48,7 @@ Saya seorang Web Developer dengan pengalaman 3 tahun. Tech Stack utama saya adal
 - CRUD Transaksi Tahapan Pelatihan
 - Membuat Halaman depan aplikasi, berisi konten konten yang dapat didownload publik
 
-### 🔸 PROPAR (Project Optimization and Recovery) Pertamina Hulu Energy
+### 🔸 PROPAR (Project Optimization and Recovery) Pertamina Hulu Energi
 📍 *Project internal perusahaan (repo private)*  
 🧑‍💻 Peran: ETL Developer  
 🛠 Tech: Talend Open Studio, Sql Server, Oracle  
