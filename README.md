@@ -7,6 +7,7 @@ Saya seorang Web Developer dengan pengalaman 3 tahun. Tech Stack utama saya adal
 - PHP (Laravel, Yii2), .NetCore
 - Html, CSS, JavaScript
 - MySQL, Sql Server
+- Talend Open Studio
 - Git
 
 ### 🔸 Sistem Akuntabilitas Instansi Pemerintah
